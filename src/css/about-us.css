@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
+
+.about-us{
+  background-color: #2941AB;
+}
+.about-us .content{
+  display: flex;
+  align-items: center;
+  padding: 0 10%;
+}
+.about-us .content .info{
+  width: 40%;
+}
+.about-us .content .image{
+  width: 60%;
+}
+.about-us .content .info .title{
+  font-size: 40px;
+  font-weight: 800;
+  color: #1ED760;
+  margin-bottom: 20px;
+}
+.about-us .content .info .text{
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.5;
+  font-weight: 400;
+}
