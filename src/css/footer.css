@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
+
+.footer{
+  padding: 80px 0 20px 0;
+}
+.footer .nav{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 25px 0;
+  max-width: 1170px;
+  margin: auto;
+}
+.footer .logo{
+  display: flex;
+  align-items: center;
+}
+.footer .logo .image{
+  width: 100px;
+}
+.footer .title{
+  font-weight: 800;
+  margin-left: 7px;
+  font-size: 18px;
+  text-transform: uppercase;
+  transition: 0.3s ease-in-out;
+}
+.footer .title:hover{
+  color: #f193a1;
+}
+.footer .nav .logo .image .title{
+  display: flex;
+  align-items: center;
+  text-transform: uppercase;
+  font-weight: 800;
+}
+.footer .social-medias{
+  display: flex;
+}
+.footer .social-medias a{
+  display: flex;
+  justify-content: center;
+  margin: 0 10px;
+  font-size: 20px;
+  border: 3px solid #111111;
+  border-radius: 50%;
+  padding: 15px;
+  width: 60px;
+  transition: 0.3s ease-in-out;
+}
+.footer .social-medias a:hover{
+  color: #ffffff;
+  border: none;
+  background-color: #f193a1;
+}
+.footer .copyright{
+  margin-top: 70px;
+  text-align: center;
+  font-weight: 400;
+}
