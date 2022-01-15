@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Public+Sans:wght@300;400;800&display=swap');
+
+@media (max-width: 1200px){
+  .about-us .content{
+    flex-direction: column;
+    text-align: center;
+    padding: 100px 25px;
+  }
+  .about-us .content .info{
+    width: 100%;
+  }
+  .about-us .content .image{
+    display: none;
+  }
+}
+
+@media (max-width: 940px){
+  .footer .nav{
+    justify-content: center;
+  }
+  .footer .nav .logo{
+    margin-right: 60px;
+  }
+}
+
+@media (max-width: 900px){
+  .main-content .panel{
+    height: 500px;
+  }
+}
+
+@media (max-width: 624px){
+  .header {
+    justify-content: center;
+  }
+  .header .menu .item a{
+    font-size: calc(0.6em + 1vw);
+  }
+}
+
+@media (max-width: 490px){
+  .footer .nav .logo,
+  .footer .nav .social-medias{
+    justify-content: center;
+    width: 100%;
+  }
+}
