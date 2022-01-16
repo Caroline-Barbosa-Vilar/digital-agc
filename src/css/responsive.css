@@ -39,9 +39,18 @@
 }
 
 @media (max-width: 490px){
+  .nav{
+    display: flex;
+  }
   .footer .nav .logo,
   .footer .nav .social-medias{
     justify-content: center;
     width: 100%;
+  }
+  .footer .nav .logo{
+    align-items: center;
+  }
+  .footer .nav .social-medias a{
+    flex-wrap: wrap;
   }
 }
