@@ -1,15 +1,3 @@
-// const panelImages = document.querySelectorAll('.panel-image');
-// const nextArrow = document.getElementById('btn-next');
-// const previousArrow = document.getElementById('btn-previous');
-// let currentImage = 0;
-
-// nextArrow.addEventListener('click', function() {
-//   currentImage++;
-//   panelImages.forEach(image => {
-//     image.classList.remove('show')
-//   });
-//   panelImages[currentImage].classList.add('show');
-// })
 
 const panelImages = document.querySelectorAll('.panel-image');
 const nextArrow = document.getElementById('btn-next');
