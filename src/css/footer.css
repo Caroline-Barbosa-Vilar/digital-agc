@@ -9,7 +9,7 @@
   align-items: center;
   padding: 25px 0;
   max-width: 1170px;
-  margin: auto;
+  margin: 0 auto;
 }
 .footer .logo{
   display: flex;
