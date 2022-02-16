@@ -1,4 +1,4 @@
-# Digital Agc
+# The Mug - Digital Agc
 
 
 
