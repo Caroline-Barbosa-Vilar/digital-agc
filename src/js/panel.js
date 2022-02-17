@@ -5,7 +5,7 @@ let currentImage = 0;
 
 function hideImages() {
     panelImages.forEach(image => {
-        image.classList.remove('show')
+    image.classList.remove('show')
     });
 }
 
@@ -19,7 +19,6 @@ nextArrow.addEventListener('click', function() {
     if(currentImage === imagesTotal) {
         return;
     }
-	
 	currentImage++;
 	
 	hideImages();

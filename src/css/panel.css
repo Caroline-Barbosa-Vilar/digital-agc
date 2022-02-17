@@ -7,12 +7,7 @@
   height: 700px;
   position: relative;
 }
-.main-content .panels .title{
-  color: #ffffff;
-  text-transform: uppercase;
-  font-size: calc(1em + 1vw);
-  font-weight: 800;
-}
+
 .main-content .panels .panel-image{
   background-repeat: no-repeat;
   background-size: cover;
@@ -22,6 +17,8 @@
   position: absolute;
   z-index: -1;
   filter: brightness(70%);
+  opacity: 0;
+  transition: 0.3s ease-in-out;
 }
 .main-content .panels .project1{
   background-image: url('../img/painel1.jpg');
@@ -31,6 +28,15 @@
 }
 .main-content .panels .project3{
   background-image: url('../img/painel3.jpg');
+}
+.main-content .panels .panel-image.show{
+  opacity: 1;
+}
+.main-content .panels .title{
+  color: #ffffff;
+  text-transform: uppercase;
+  font-size: calc(1em + 1vw);
+  font-weight: 800;
 }
 .main-content .panels .arrow{
   background: url('../img/seta.png');
