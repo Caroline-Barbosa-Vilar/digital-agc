@@ -32,6 +32,12 @@
 .main-content .panels .panel-image.show{
   opacity: 1;
 }
+.main-content .panels .arrow.btn-next.hide{
+  opacity: 0.3;
+}
+.main-content .panels .arrow.btn-previous.hide{
+  opacity: 0.3;
+}
 .main-content .panels .title{
   color: #ffffff;
   text-transform: uppercase;
