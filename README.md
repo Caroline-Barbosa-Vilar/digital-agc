@@ -1,18 +1,20 @@
 # The Mug - Digital Agc
 
-A landing page for a digital ad agencie. 
+A landing page for a digital ad agency. 
+
+https://bo83dev.github.io/digital-agc/
 
 Desktop 
 
-[<img src="./src/mug-desktop-screen.gif" alt="The Mug agc project screen gif">](https://bo83dev.github.io/digital-agc/)
+<img src="./src/mug-desktop-screen.gif" alt="The Mug agc project screen gif">
 
 Tablet
 
-[<img src="./src/mug-tablet-screen.gif" alt="The Mug agc project screen gif">]
+<img src="./src/mug-tablet-screen.gif" alt="The Mug agc project screen gif">
 
 Mobile
 
-[<img src="./src/mug-mobile-screen.gif" alt="The Mug agc project screen gif">]
+<img src="./src/mug-mobile-screen.gif" alt="The Mug agc project screen gif">
 
 
 ## Technologies
