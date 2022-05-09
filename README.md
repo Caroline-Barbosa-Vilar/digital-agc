@@ -2,9 +2,6 @@
 
 <h1 align='center'> The Mug - Digital Agc </h1>
 
-<p align='center'>  _Para a versão em Português, clique [aqui](#portuguese)._  </p> 
-
-
 <p align='center'>
 
 <a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
@@ -12,6 +9,8 @@
 <a href="https://github.com/Bo83dev/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Bo83dev/digital-agc"></a>
    
 </p>
+
+_Para a versão em Português, clique [aqui](#portuguese)._ 
 
 
 ### Topics
