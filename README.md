@@ -128,3 +128,5 @@ Desktop
 Tablet
 
 <img src="./src/mug-tablet-screen.gif" alt="The Mug agc project screen gif">
+   
+Developed with 🧡 by [@Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
