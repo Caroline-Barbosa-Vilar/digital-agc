@@ -4,6 +4,9 @@ A landing page for a digital ad agency.
 
 https://bo83dev.github.io/digital-agc/
 
+
+<a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
+
 ## Technologies
 
 - HTML;
