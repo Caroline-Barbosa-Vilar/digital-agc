@@ -1,8 +1,8 @@
-<img align='center' src="./src/the-mug.png" alt="the agency logo of a man hugging a coffee mug">
+<p align='center'> <img src="./src/the-mug.png" alt="the agency logo of a man hugging a coffee mug"> </p>
 
 <h1 align='center'> The Mug - Digital Agc </h1>
 
-_Para a versão em Português, clique [aqui](#portuguese)._
+<p align='center'>  _Para a versão em Português, clique [aqui](#portuguese)._  </p> 
 
 
 <p align='center'>
