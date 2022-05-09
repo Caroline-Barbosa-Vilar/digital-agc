@@ -1,11 +1,11 @@
-<img src="./src/the-mug.png" alt="">
+<img align='center' src="./src/the-mug.png" alt="the agency logo of a man hugging a coffee mug">
 
 <h1 align='center'> The Mug - Digital Agc </h1>
 
 _Para a versão em Português, clique [aqui](#portuguese)._
 
 
-<p align="center">
+<p align='center'>
 
 <a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
 <a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
@@ -115,7 +115,7 @@ Essa é uma landing page de uma agência digital fictícia. Esse projeto foi cri
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://github.com/camilafernanda/GlicoCare) 
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/digital-agc/) 
 
 Mobile
 
@@ -128,5 +128,6 @@ Desktop
 Tablet
 
 <img src="./src/mug-tablet-screen.gif" alt="The Mug agc project screen gif">
-   
-Developed with 🧡 by [@Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+
+
+Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
