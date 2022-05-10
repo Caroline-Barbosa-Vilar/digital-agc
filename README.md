@@ -27,7 +27,7 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 
 <p align="justify">
 
-This is a landing page for a fictitious digital agency. This project was created during the frontend development course [DevQuest](https://devemdobro.com/lista/) in the Intermediate HTML and CSS module.
+This is a landing page for a fictitious digital agency. This project was created during the frontend development course [DevQuest](https://devemdobro.com/lista/) in the Advanced HTML and CSS module.
 
 </p>
 
@@ -92,7 +92,7 @@ Tablet
 
 <p align="justify">
 
-Essa é uma landing page de uma agência digital fictícia. Esse projeto foi criado durante o curso de desenvolvimento frontend [DevQuest](https://devemdobro.com/lista/) no módulo de HTML e CSS Intermediário.
+Essa é uma landing page de uma agência digital fictícia. Esse projeto foi criado durante o curso de desenvolvimento frontend [DevQuest](https://devemdobro.com/lista/) no módulo de HTML e CSS Avançado.
 
 </p>
 
