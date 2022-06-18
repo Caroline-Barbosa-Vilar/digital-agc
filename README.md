@@ -2,11 +2,12 @@
 
 <h1 align='center'> The Mug - Digital Agc </h1>
 
+
 <div align='center'>
 
-<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
-<a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
-<a href="https://github.com/Bo83dev/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/digital-agc"></a>
    
 </div>
 
@@ -47,7 +48,7 @@ This is a landing page for a fictitious digital agency. This project was created
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/digital-agc/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/digital-agc/) 
 
 
 Mobile
@@ -71,9 +72,9 @@ Tablet
 
 
 <div align='center'>
-	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
-	<a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
-	<a href="https://github.com/Bo83dev/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/digital-agc"></a>
+	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/digital-agc"></a>
 </div>
 
 
@@ -111,7 +112,7 @@ Essa é uma landing page de uma agência digital fictícia. Esse projeto foi cri
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/digital-agc/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/digital-agc/) 
 
 Mobile
 
@@ -127,4 +128,4 @@ Tablet
 
 <hr>
 	
-Developed with 🧡 by me!  [Carol Vilar](https://www.linkedin.com/in/carolinebarbosavilar/)
+Developed with 🧡 by [me](https://www.linkedin.com/in/carolinebarbosavilar/)!
