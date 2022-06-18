@@ -4,11 +4,9 @@
 
 
 <div align='center'>
-
 	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Caroline-Barbosa-Vilar/digital-agc"></a>
 	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Caroline-Barbosa-Vilar/digital-agc"></a>
 	<a href="https://github.com/Caroline-Barbosa-Vilar/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Caroline-Barbosa-Vilar/digital-agc"></a>
-   
 </div>
 
 _Para a versão em Português, clique [aqui](#portuguese)._ 
